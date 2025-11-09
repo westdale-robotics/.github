@@ -26,7 +26,6 @@ Explore our open-source projects:
 
 - **[main-page](https://github.com/westdale-robotics/main-page)** - Our team website frontend
 - **[main-page-backend](https://github.com/westdale-robotics/main-page-backend)** - Backend services for our website
-- **[ftc-team-code](https://github.com/westdale-robotics/ftc-team-code)** - Our FTC robot code and autonomous programs
 
 ## 🎯 Our Mission
 
